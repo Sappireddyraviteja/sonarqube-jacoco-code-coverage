@@ -19,6 +19,6 @@ pipeline {
            // steps {
              //   waitForQualityGate abortPipeline: true
             //}
-        }
+//        }
     }
 }
